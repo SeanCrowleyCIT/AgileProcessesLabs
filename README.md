@@ -2,3 +2,5 @@
 
 "This is a new line."
 "Change made in master branch”
+
+"This change was mady the collaborator."
